@@ -133,3 +133,15 @@ Albüm Güncelleme: Listeden bir albüm seçin, bilgileri güncelleyin ve 'Günc
 Albüm Silme: Listeden bir albüm seçin ve 'Sil' butonuna tıklayarak albümü veri tabanından kaldırın.
 
 Liste Görüntüleme: Ana bölümde tüm albümleri veya belirli listeleri görüntüleyin (satışı devam eden albümler, yeni eklenen albümler, indirimdeki albümler).
+
+![](https://github.com/MahmutTaylan/AlbumManagerMahmutTaylan/blob/master/Y%C3%B6netici%20Ekleme%20Ekrani.png)
+
+![](https://github.com/MahmutTaylan/AlbumManagerMahmutTaylan/blob/master/Y%C3%B6netici%20Edit%20Ekrani.png)
+
+![](https://github.com/MahmutTaylan/AlbumManagerMahmutTaylan/blob/master/Y%C3%B6netici%20Giri%C5%9F%20Ekrani.png)
+
+![](hhttps://github.com/MahmutTaylan/AlbumManagerMahmutTaylan/blob/master/Y%C3%B6netici%20Edit%20Ekrani%202.png)
+
+![](https://github.com/MahmutTaylan/AlbumManagerMahmutTaylan/blob/master/Y%C3%B6netici%20Edit%20Ekrani%203.png)
+
+
