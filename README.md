@@ -136,9 +136,9 @@ Liste Görüntüleme: Ana bölümde tüm albümleri veya belirli listeleri gör�
 
 ![](https://github.com/MahmutTaylan/AlbumManagerMahmutTaylan/blob/master/Y%C3%B6netici%20Ekleme%20Ekrani.png)
 
-![](https://github.com/MahmutTaylan/AlbumManagerMahmutTaylan/blob/master/Y%C3%B6netici%20Edit%20Ekrani.png)
-
 ![](https://github.com/MahmutTaylan/AlbumManagerMahmutTaylan/blob/master/Y%C3%B6netici%20Giri%C5%9F%20Ekrani.png)
+
+![](https://github.com/MahmutTaylan/AlbumManagerMahmutTaylan/blob/master/Y%C3%B6netici%20Edit%20Ekrani.png)
 
 ![](hhttps://github.com/MahmutTaylan/AlbumManagerMahmutTaylan/blob/master/Y%C3%B6netici%20Edit%20Ekrani%202.png)
 
